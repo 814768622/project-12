@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+
+.DS_Store
+
+# local env
+.env
+
+# large local archive
+*.zip
